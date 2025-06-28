@@ -1,0 +1,7 @@
+uvicorn[standard]
+fastapi
+requests
+pytest
+httpx
+black
+flake8
